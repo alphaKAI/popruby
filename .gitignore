@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/popruby
+popruby.so
+popruby.dylib
+popruby.dll
+popruby.a
+popruby.lib
+popruby-test-*
+*.exe
+*.o
+*.obj
+*.lst

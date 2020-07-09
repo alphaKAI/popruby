@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"alphakai"
+	],
+	"copyright": "Copyright © 2020, alphakai",
+	"dependencies": {
+		"gtk-d": "~>3.9.0"
+	},
+	"description": "A GUI Application, which executes Ruby code from TextView and copy the result of execution into Clipboard",
+	"license": "MIT",
+	"name": "popruby",
+  "dflags": ["-J=."]
+}
